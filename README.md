@@ -56,10 +56,6 @@ In Q1 2024, these findings were implemented and validated, showing a statistical
 ## Usage
 
 1. **Setup**: Clone the repository and install the required packages (e.g., pandas, numpy, sklearn, matplotlib, seaborn).
-   ```bash
-   git clone [repository link]
-   pip install -r requirements.txt
-   ```
 
 2. **Run Analysis**: Open `Appointment No-Show Analysis Pipeline.ipynb` in Jupyter Notebook to execute the project workflow, from data preparation to model evaluation.
 
