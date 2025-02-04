@@ -64,3 +64,11 @@ In Q1 2024, these findings were implemented and validated, showing a statistical
 ## Conclusion
 
 This project highlights the effectiveness of data-driven approaches in reducing appointment no-shows in healthcare settings. By integrating machine learning models with refined A/B testing, healthcare providers can tailor reminder strategies to specific patient groups, reducing no-show rates and improving resource utilization. These insights and methodologies can serve as a foundation for further exploration of patient engagement and retention strategies.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For questions or feedback, feel free to reach out:
+- **Email:** Adam.RivardWalter@gmail.com  
+- **GitHub:** [adamw80](https://github.com/adamw80)
